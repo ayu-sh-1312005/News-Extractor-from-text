@@ -4,6 +4,10 @@ A simple and powerful **News Summarizer Web App** built using **Streamlit + Lang
 It extracts **multiple news headlines and summaries** from a given article using an LLM.
 
 ---
+🚀 Live Demo
+
+👉 Try the app here:
+🔗 https://news-extractor-from-text-kw9i4jutrdfqiskzdtj29a.streamlit.app/
 
 ## 🚀 Features
 
